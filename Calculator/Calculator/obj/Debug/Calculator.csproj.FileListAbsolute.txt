@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.TempertureConverter.resources
